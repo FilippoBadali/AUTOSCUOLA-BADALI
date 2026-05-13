@@ -30,3 +30,5 @@ per avviare l'applicazione:
     - non loggato: vede solo la pagina iniziale, se prova a schiacciare le varie funzionalità vedrà sempre la pagina di login
     - studente: vede le funzioni principali: prenotarsi,seguire le lezioni e fare quiz. non può aggiungere date o studenti
     - istruttore: può aggiungere date per le prenotazioni,lezioni,quiz,utenti. PUO’ FARE TUTTO
+
+    per vedere il codice, bisogna scaricare la cartella zippata e guardare il file serve.py, al suo interno si vedono tutte le funzionalità
