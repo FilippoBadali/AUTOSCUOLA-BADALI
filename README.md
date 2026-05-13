@@ -1,3 +1,7 @@
+scaricare la cartella zippata
+.env --> le variabili per accedere al database di redis,SQL e host per runnare
+documentazione.pdf --> c'è scritto tutte le informazioni sul database e sull'applicazione
+autoscuolaDB.sql --> database base con le varie tabelle
 templates --> tutte le pagine html del sito
 statics --> le immagini
 server.py --> tutte le funzionalità
