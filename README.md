@@ -1,3 +1,7 @@
+templates --> tutte le pagine html del sito
+statics --> le immagini
+server.py --> tutte le funzionalità
+
 per avviare l'applicazione:
  Comandi per il venv:                         
        python -m venv .venv                       
